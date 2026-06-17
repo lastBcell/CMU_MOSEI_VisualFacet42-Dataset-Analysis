@@ -1,0 +1,10 @@
+CMU_MOSEI_COVAREP.csd: Acoustic features (COVAREP)
+CMU_MOSEI_Labels.csd: Sentiment/emotion labels and annotations
+CMU_MOSEI_OpenFace2.csd: Facial features (OpenFace 2.0)
+CMU_MOSEI_TimestampedPhones.csd: Timestamped phone (phoneme) alignments
+CMU_MOSEI_TimestampedWordVectors.csd: Timestamped word embeddings (GloVe/Word2Vec)
+CMU_MOSEI_TimestampedWords.csd: Timestamped word alignments
+
+
+This is the main dataset Used 
+CMU_MOSEI_VisualFacet42.csd: Additional facial/action unit features : https://huggingface.co/datasets/reeha-parkar/cmu-mosei-comp-seq/tree/main/data
