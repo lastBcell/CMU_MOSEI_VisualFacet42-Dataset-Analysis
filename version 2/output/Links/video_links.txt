@@ -1,0 +1,11 @@
+STATUS	VIDEO_ID	URL
+AVAILABLE	-571d8cVauQ	https://www.youtube.com/watch?v=-571d8cVauQ
+AVAILABLE	-6rXp3zJ3kc	https://www.youtube.com/watch?v=-6rXp3zJ3kc
+AVAILABLE	-Eqdz5y4pEY	https://www.youtube.com/watch?v=-Eqdz5y4pEY
+AVAILABLE	-Alixo7euuU	https://www.youtube.com/watch?v=-Alixo7euuU
+AVAILABLE	-3g5yACwYnA	https://www.youtube.com/watch?v=-3g5yACwYnA
+AVAILABLE	-9YyBTjo1zo	https://www.youtube.com/watch?v=-9YyBTjo1zo
+AVAILABLE	-3nNcZdcdvU	https://www.youtube.com/watch?v=-3nNcZdcdvU
+AVAILABLE	-9y-fZ3swSY	https://www.youtube.com/watch?v=-9y-fZ3swSY
+UNAVAILABLE(ERROR)	-AUZQgSxyPQ	https://www.youtube.com/watch?v=-AUZQgSxyPQ
+UNAVAILABLE(ERROR)	--qXJuDtHPw	https://www.youtube.com/watch?v=--qXJuDtHPw
