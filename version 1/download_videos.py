@@ -1,6 +1,6 @@
 import h5py
-import subprocess
 import os
+import yt_dlp
 
 BASE = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(os.path.dirname(BASE), "Data")
@@ -29,15 +29,17 @@ for v in range(num_videos):
         continue
     print(f"[{v+1}/{num_videos}] Downloading {vid}...")
     print(f"  Link: {yt_link}")
-    result = subprocess.run([
-        "yt-dlp", "-f", "best[height<=480]",
-        "-o", out_path,
-        yt_link
-    ], capture_output=True, text=True)
-    if result.returncode != 0:
-        print(f"  Failed: {result.stderr.strip()[:150]}")
-    else:
+    ydl_opts = {
+        'format': 'best[height<=480]',
+        'outtmpl': out_path,
+        'quiet': True,
+    }
+    try:
+        with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+            ydl.download([yt_link])
         print(f"  Saved to {out_path}")
+    except Exception as e:
+        print(f"  Failed: {str(e)[:150]}")
 
 with open(links_file, "w") as lf:
     for v in range(num_videos):
