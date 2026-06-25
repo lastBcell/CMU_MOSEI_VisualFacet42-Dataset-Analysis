@@ -1,0 +1,10 @@
+Input:D:\CMU_MOSEI_VisualFacet42\version 2\output\video_out\-571d8cVauQ.mp4
+Input full path:D:\CMU_MOSEI_VisualFacet42\version 2\output\video_out\-571d8cVauQ.mp4
+Camera parameters:377.344,377.344,243,180
+Output csv:-571d8cVauQ.csv
+Gaze: 0
+AUs: 1
+Landmarks 2D: 0
+Landmarks 3D: 0
+Pose: 0
+Shape parameters: 0
