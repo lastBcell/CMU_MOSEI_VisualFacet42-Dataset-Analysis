@@ -1,0 +1,10 @@
+Input:D:\CMU_MOSEI_VisualFacet42\Dataset\BalanedDataset_for_Openface\Ahegao
+Input full path:D:\CMU_MOSEI_VisualFacet42\Dataset\BalanedDataset_for_Openface\Ahegao
+Camera parameters:219.141,219.141,88.5,144
+Output csv:Ahegao.csv
+Gaze: 0
+AUs: 1
+Landmarks 2D: 0
+Landmarks 3D: 0
+Pose: 0
+Shape parameters: 0
