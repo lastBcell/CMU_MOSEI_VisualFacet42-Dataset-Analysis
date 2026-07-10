@@ -1,0 +1,10 @@
+Input:D:\CMU_MOSEI_VisualFacet42\Dataset\archive\dataset\Ahegao
+Input full path:D:\CMU_MOSEI_VisualFacet42\Dataset\archive\dataset\Ahegao
+Camera parameters:302.083,302.083,132,191
+Output csv:Ahegao.csv
+Gaze: 0
+AUs: 1
+Landmarks 2D: 0
+Landmarks 3D: 0
+Pose: 0
+Shape parameters: 0

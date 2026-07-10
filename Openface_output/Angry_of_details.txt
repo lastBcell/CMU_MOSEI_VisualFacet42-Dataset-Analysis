@@ -1,0 +1,10 @@
+Input:D:\CMU_MOSEI_VisualFacet42\Dataset\archive\dataset\Angry
+Input full path:D:\CMU_MOSEI_VisualFacet42\Dataset\archive\dataset\Angry
+Camera parameters:331.771,331.771,182,182
+Output csv:Angry.csv
+Gaze: 0
+AUs: 1
+Landmarks 2D: 0
+Landmarks 3D: 0
+Pose: 0
+Shape parameters: 0

@@ -1,0 +1,11 @@
+Input:D:\CMU_MOSEI_VisualFacet42\Dataset\archive\dataset\Neutral
+Input full path:D:\CMU_MOSEI_VisualFacet42\Dataset\archive\dataset\Neutral
+Camera parameters:216.927,216.927,119,119
+Output video:Neutral.avi
+Output csv:Neutral.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1
