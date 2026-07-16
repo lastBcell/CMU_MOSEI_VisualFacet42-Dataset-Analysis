@@ -1,0 +1,10 @@
+Input:D:\CMU_MOSEI_VisualFacet42\version 3\Dataset_out\HappyB_3_part_2
+Input full path:D:\CMU_MOSEI_VisualFacet42\version 3\Dataset_out\HappyB_3_part_2
+Camera parameters:178.646,178.646,98,98
+Output csv:HappyB_3_part_2.csv
+Gaze: 0
+AUs: 1
+Landmarks 2D: 0
+Landmarks 3D: 0
+Pose: 0
+Shape parameters: 0

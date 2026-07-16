@@ -1,0 +1,10 @@
+Input:D:\CMU_MOSEI_VisualFacet42\version 3\Bached_Dataset\Test\Happy_test10_img
+Input full path:D:\CMU_MOSEI_VisualFacet42\version 3\Bached_Dataset\Test\Happy_test10_img
+Camera parameters:334.505,334.505,183.5,183.5
+Output csv:Happy_test10_img.csv
+Gaze: 0
+AUs: 0
+Landmarks 2D: 1
+Landmarks 3D: 0
+Pose: 0
+Shape parameters: 0

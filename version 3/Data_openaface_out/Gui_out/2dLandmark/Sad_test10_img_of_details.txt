@@ -1,0 +1,10 @@
+Input:D:\CMU_MOSEI_VisualFacet42\version 3\Bached_Dataset\Test\Sad_test10_img
+Input full path:D:\CMU_MOSEI_VisualFacet42\version 3\Bached_Dataset\Test\Sad_test10_img
+Camera parameters:213.281,213.281,117,117
+Output csv:Sad_test10_img.csv
+Gaze: 0
+AUs: 0
+Landmarks 2D: 1
+Landmarks 3D: 0
+Pose: 0
+Shape parameters: 0
